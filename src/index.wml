@@ -1,0 +1,17 @@
+@page {
+  @meta {
+    title: "Hello WorldML"
+    description: "My first WorldML page"
+  }
+  @layout MainLayout {
+    @section hero {
+      @heading "Welcome to WorldML"
+      @text "This is my first WorldML page!"
+      @button {
+        text: "Get Started"
+        action: "@navigate('/start')"
+      }
+    }
+  }
+}
+

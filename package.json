@@ -1,0 +1,29 @@
+{
+    "name": "com4r",
+    "version": "1.0.0",
+    "description": "A lightweight TypeScript DOM manipulation library",
+    "type": "commonjs",
+    "scripts": {
+        "build": "tsc",
+        "typecheck": "tsc --noEmit",
+        "test": "jest"
+    },
+    "keywords": [
+        "dom",
+        "typescript",
+        "jsx"
+    ],
+    "author": "threemak",
+    "license": "MIT",
+    "devDependencies": {
+        "@types/estree": "^1.0.6",
+        "@types/jsdom": "^21.1.7",
+        "@types/node": "^20.0.0",
+        "ts-node": "^10.9.2",
+        "tsup": "^8.0.0",
+        "typescript": "^5.7.2"
+    },
+    "dependencies": {
+        "jsdom": "^25.0.1"
+    }
+}
