@@ -20,8 +20,9 @@ The Prototype Language is a highly customizable and experimental programming lan
 
 ---
 
-## Its'a prototype
-### I want to fully extend into this 
+## Its'a prototype 
+### I want to fully extend into this
+
 # WorldML: A Modern Markup Language for the Digital Age
 
 ## Core Concepts
